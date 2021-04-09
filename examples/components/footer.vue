@@ -35,9 +35,9 @@
             <img src="../assets/img/avater.png" width="80">
           </a>
           <div>
-            <!-- <p>author: monkeyWang</p>
+            <p>author: monkeyWang</p>
             <p>email: 2424880409@qq.com </p>
-            <p>github: <a href="https://github.com/monkeyWangs">https://github.com/monkeyWangs</a></p> -->
+            <p>github: <a href="https://github.com/monkeyWangs">https://github.com/monkeyWangs</a></p>
           </div>
         </w-col>
         <w-col :span="12" class="text-right">

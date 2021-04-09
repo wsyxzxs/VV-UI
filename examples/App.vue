@@ -8,7 +8,7 @@
         <router-view class="view"></router-view>
       </div>
       <router-view class="page" v-else></router-view>
-      <mainFooter v-if="!isIndex"></mainFooter>
+      <!-- <mainFooter v-if="!isIndex"></mainFooter> -->
     </div>
   </div>
 </template>
